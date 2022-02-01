@@ -1,1 +1,7 @@
-package forsample
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("mysecondprogram")
+}
